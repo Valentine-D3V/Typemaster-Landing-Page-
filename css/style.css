@@ -374,11 +374,19 @@ header {
     padding-bottom: 83px;
   }
 
+  .header-button {
+    padding: 16px 26px 16px 27px;
+  }
+
   .hero-section {
     display: flex;
     flex-direction: row;
 
     margin-bottom: 40px;
+  }
+
+  .hero-cta-button {
+    padding: 16px 26px 16px 27px;
   }
 
   .info-section {
