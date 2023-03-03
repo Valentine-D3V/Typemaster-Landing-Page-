@@ -459,7 +459,7 @@ header {
     content: url(../assets/images/pattern-square.svg);
     position: absolute;
     top: 0;
-    right: -320px;
+    right: -277px;
   }
 
   .hero-heading {
@@ -502,7 +502,7 @@ header {
     content: url(../assets/images/pattern-square.svg);
     position: absolute;
     bottom: 0;
-    left: -320px;
+    left: -277px;
   }
 
   .info-main-content {
