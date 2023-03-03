@@ -281,7 +281,7 @@ header {
 }
 
 .info-text {
-  /* max-width: 17ch; */
+  max-width: 52ch;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -459,7 +459,7 @@ header {
     content: url(../assets/images/pattern-square.svg);
     position: absolute;
     top: 0;
-    right: -277px;
+    right: -286px;
   }
 
   .hero-heading {
@@ -502,11 +502,11 @@ header {
     content: url(../assets/images/pattern-square.svg);
     position: absolute;
     bottom: 0;
-    left: -277px;
+    left: -286px;
   }
 
   .info-main-content {
-    max-width: 444px;
+    /* max-width: 255px; */
     display: flex;
     flex-direction: column;
   }
