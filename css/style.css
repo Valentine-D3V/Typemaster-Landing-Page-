@@ -506,7 +506,12 @@ header {
   }
 
   .info-main-content {
+    max-width: 444px;
     display: flex;
     flex-direction: column;
+  }
+
+  .info-heading {
+    margin-bottom: 27px;
   }
 }
